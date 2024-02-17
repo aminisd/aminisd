@@ -1,5 +1,6 @@
 👋 Hello, I'm Amini Sudi !
 
+
 🚀 Senior Software Engineer | Full Stack Developer | DevOps Enthusiast | Architect
 
 🌐 Leveraging over 7 years of experience, I specialize in building robust and scalable software solutions that seamlessly integrate both frontend and backend technologies. My passion for technology extends to DevOps practices, ensuring efficient deployment pipelines and infrastructure management.
