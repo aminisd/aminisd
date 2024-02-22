@@ -33,7 +33,7 @@ The tech landscape is ever-evolving, and I'm committed to continuous learning. W
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration, discussions, or simply to share knowledge. Let's build great things together!
 
-BADGES YEAAAAAAH and more BADGESSSSSSS 
+BADGES YEAAAAAAH and more BADGESSSSSS 
 
 <span id="badges"></span>
 
